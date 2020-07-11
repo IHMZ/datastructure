@@ -1,11 +1,6 @@
 package com.datastructure.tree.binarysorttree;
 
-import com.sun.org.apache.bcel.internal.generic.IF_ACMPEQ;
-import com.sun.xml.internal.bind.v2.model.core.ID;
-import jdk.nashorn.internal.ir.IfNode;
-import org.omg.CORBA.PUBLIC_MEMBER;
-import sun.dc.pr.PRError;
-import sun.security.ec.ECDHKeyAgreement;
+
 
 public class BinarySortTreeDemo {
     public static void main(String[] args) {
